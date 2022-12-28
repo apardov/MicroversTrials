@@ -1,0 +1,9 @@
+@media (max-width: 28.75em) {
+    .nav {
+      justify-content: center;
+    }
+  }
+  
+  header {
+    position: fixed;
+  }
